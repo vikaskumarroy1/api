@@ -19,6 +19,6 @@ app.get("/get-user", async (req, res) => {
 });
 
 
-app.listen(8080, () => {
+app.listen(10000, () => {
     console.log("server is running")
 });
